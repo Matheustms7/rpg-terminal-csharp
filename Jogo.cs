@@ -1,6 +1,6 @@
 ﻿using System; // Biblioteca do C#
 
-class program
+class Jogo
 {
     static void Main()
     {
